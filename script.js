@@ -1,7 +1,7 @@
 // Each name should be in the format "Stu1, Stu2, and Stu3" with an optional URL
 var names = [
 	["Bea", "https://docs.google.com/presentation/d/173BJBwXTvMLLH8QJlZjux2Mkqmm5uBqmDPeIsEH88OY/present#slide=id.p"],
-	["Dane", "/DPolchinFinalPresentation.pdf"],
+	["Dane", "DPolchinFinalPresentation.pdf"],
 	["Lucas", "https://docs.google.com/presentation/d/1NmHtbrdH-Om72ex8WrN3kvNUPgS8IA1xC-Uwp_UUKvs/present#slide=id.p"],
     ["Ryler", "https://docs.google.com/presentation/d/1pbTjVbDtXVu4P3TL-UmZTsTI7CWdyrW2HmCtiehCM-g/present#slide=id.p"]
 ];
